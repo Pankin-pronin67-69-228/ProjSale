@@ -1,3 +1,0 @@
-# ProjSale
-short comment
-#gleba
